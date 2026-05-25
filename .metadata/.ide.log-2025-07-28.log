@@ -1,8 +1,0 @@
-2025-07-28 23:02:32,705 [INFO] Activator:176 - 
-
-
-2025-07-28 23:02:32,711 [INFO] Activator:177 - !SESSION log4j initialized
-2025-07-28 23:02:34,708 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
-2025-07-28 23:02:37,784 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
-2025-07-28 23:02:40,185 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
-2025-07-28 23:02:41,254 [INFO] McuFinderGlobals:63 - Set McuFinder mode to 2 (CubeIDE integrated)
