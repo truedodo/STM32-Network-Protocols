@@ -1,0 +1,2 @@
+../Core/Src/udpServerRAW.c:42:6:udpServer_init	24	static
+../Core/Src/udpServerRAW.c:72:6:udp_receive_callback	136	static

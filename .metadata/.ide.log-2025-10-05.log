@@ -1,0 +1,107 @@
+2025-10-06 00:02:05,297 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,524x272,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-06 00:02:30,719 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:02:30,724 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:02:30,751 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:02:30,756 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:02:30,851 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:02:30,854 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:02:31,068 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:02:31,070 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:02:47,716 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:02:47,721 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:02:50,014 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:02:50,016 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:02:50,036 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:02:50,038 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:02:50,793 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:02:50,805 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:05:00,555 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:05:00,556 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:05:02,695 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:05:02,697 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:05:02,710 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:05:02,711 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:05:02,755 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:05:02,756 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:05:43,188 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:05:43,191 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:05:43,205 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:05:43,207 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:05:43,245 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:05:43,246 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:05:47,757 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:05:47,758 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:05:47,772 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:05:47,773 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:05:47,811 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:05:47,812 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:15:26,747 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:15:26,751 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:15:31,082 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:15:31,085 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:15:56,688 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:15:56,697 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:15:56,713 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:15:56,714 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:15:56,836 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:15:56,837 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:16:05,916 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 778566888 Bytes (1073741824)
+2025-10-06 00:16:09,933 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 873743936 Bytes (1073741824)
+2025-10-06 00:16:10,257 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-10-06 00:16:10,257 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-06 00:16:10,257 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USB_OTG_FS
+2025-10-06 00:16:10,257 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-06 00:16:10,258 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: LWIP
+2025-10-06 00:16:10,258 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-10-06 00:16:10,258 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-06 00:16:10,258 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: ETH
+2025-10-06 00:16:10,258 [INFO] CodeGenerator:882 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.14.0.202502271554//db/
+2025-10-06 00:16:10,267 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-06 00:16:10,269 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-06 00:16:10,312 [WARN] IP:2250 - lpm_enable not found: check if there is a RefParameter without a condition.
+2025-10-06 00:16:10,385 [INFO] CodeEngine:263 - oldGeneratedFile, /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/MXTmpFiles/license.tmp_save
+2025-10-06 00:16:10,694 [INFO] CodeEngine:287 - Generated code: /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/MXTmpFiles/license.tmp
+2025-10-06 00:16:10,822 [INFO] CodeEngine:263 - oldGeneratedFile, /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/MXTmpFiles/gpio.tmp_save
+2025-10-06 00:16:11,029 [INFO] CodeEngine:287 - Generated code: /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/MXTmpFiles/gpio.tmp
+2025-10-06 00:16:11,114 [INFO] CodeEngine:263 - oldGeneratedFile, /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/MXTmpFiles/eth_vars.tmp_save
+2025-10-06 00:16:11,169 [INFO] CodeEngine:287 - Generated code: /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/MXTmpFiles/eth_vars.tmp
+2025-10-06 00:16:11,170 [INFO] CodeEngine:263 - oldGeneratedFile, /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/MXTmpFiles/eth_inc.tmp_save
+2025-10-06 00:16:11,207 [INFO] CodeEngine:287 - Generated code: /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/MXTmpFiles/eth_inc.tmp
+2025-10-06 00:16:11,208 [INFO] CodeEngine:263 - oldGeneratedFile, /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/MXTmpFiles/eth_HalInit.tmp_save
+2025-10-06 00:16:11,278 [INFO] CodeEngine:287 - Generated code: /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/MXTmpFiles/eth_HalInit.tmp
+2025-10-06 00:16:11,280 [INFO] CodeEngine:263 - oldGeneratedFile, /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/MXTmpFiles/eth_Msp.tmp_save
+2025-10-06 00:16:11,372 [INFO] CodeEngine:287 - Generated code: /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/MXTmpFiles/eth_Msp.tmp
+2025-10-06 00:16:11,542 [INFO] Middleware:1452 - No code input for Bsp Dependency
+2025-10-06 00:16:11,559 [INFO] Middleware:1452 - No code input for Bsp Dependency
+2025-10-06 00:16:11,573 [INFO] CodeEngine:263 - oldGeneratedFile, /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/LWIP/App/lwip.c_save
+2025-10-06 00:16:11,666 [INFO] CodeEngine:287 - Generated code: /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/LWIP/App/lwip.c
+2025-10-06 00:16:11,668 [INFO] CodeEngine:263 - oldGeneratedFile, /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/LWIP/App/lwip.h_save
+2025-10-06 00:16:11,725 [INFO] CodeEngine:287 - Generated code: /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/LWIP/App/lwip.h
+2025-10-06 00:16:11,727 [INFO] CodeEngine:263 - oldGeneratedFile, /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/LWIP/Target/lwipopts.h_save
+2025-10-06 00:16:11,856 [INFO] CodeEngine:287 - Generated code: /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/LWIP/Target/lwipopts.h
+2025-10-06 00:16:11,859 [INFO] CodeEngine:263 - oldGeneratedFile, /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/LWIP/Target/ethernetif.c_save
+2025-10-06 00:16:11,913 [INFO] CodeEngine:287 - Generated code: /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/LWIP/Target/ethernetif.c
+2025-10-06 00:16:11,915 [INFO] CodeEngine:263 - oldGeneratedFile, /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/LWIP/Target/ethernetif.h_save
+2025-10-06 00:16:11,953 [INFO] CodeEngine:287 - Generated code: /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/LWIP/Target/ethernetif.h
+2025-10-06 00:16:11,970 [INFO] CodeEngine:263 - oldGeneratedFile, /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/Core/Src/stm32f2xx_it.c_save
+2025-10-06 00:16:12,153 [INFO] CodeEngine:287 - Generated code: /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/Core/Src/stm32f2xx_it.c
+2025-10-06 00:16:12,299 [INFO] CodeEngine:263 - oldGeneratedFile, /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/Core/Inc/stm32f2xx_it.h_save
+2025-10-06 00:16:12,419 [INFO] CodeEngine:287 - Generated code: /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/Core/Inc/stm32f2xx_it.h
+2025-10-06 00:16:12,458 [INFO] CodeEngine:263 - oldGeneratedFile, /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/Core/Src/stm32f2xx_hal_msp.c_save
+2025-10-06 00:16:12,593 [INFO] CodeEngine:287 - Generated code: /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/Core/Src/stm32f2xx_hal_msp.c
+2025-10-06 00:16:12,596 [INFO] CodeEngine:263 - oldGeneratedFile, /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/MXTmpFiles/system.tmp_save
+2025-10-06 00:16:12,633 [INFO] CodeEngine:287 - Generated code: /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/MXTmpFiles/system.tmp
+2025-10-06 00:16:12,645 [INFO] CodeEngine:319 - oldGeneratedFile, /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/Core/Inc/stm32f2xx_hal_conf.h_save
+2025-10-06 00:16:12,688 [INFO] CodeEngine:343 - Generated code: /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/Core/Inc/stm32f2xx_hal_conf.h
+2025-10-06 00:16:12,816 [WARN] IPConfigManager:3747 - IP not found : USB_OTG
+2025-10-06 00:16:12,817 [WARN] CodeGenerator:4198 - IP not found : null
+2025-10-06 00:16:12,821 [INFO] CodeEngine:263 - oldGeneratedFile, /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/Core/Inc/main.h_save
+2025-10-06 00:16:12,872 [INFO] CodeEngine:287 - Generated code: /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/Core/Inc/main.h
+2025-10-06 00:16:12,873 [INFO] CodeEngine:263 - oldGeneratedFile, /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/Core/Src/main.c_save
+2025-10-06 00:16:12,941 [INFO] CodeEngine:287 - Generated code: /Users/dodo/STM32CubeIDE/workspace_1.18.0/httpd/Core/Src/main.c
+2025-10-06 00:16:13,255 [INFO] ProjectBuilder:3324 - Time for Copy HAL[1] : 107mS.
+2025-10-06 00:16:13,269 [INFO] ProjectBuilder:4912 - Project Generator version: 4.6.0-B36
+2025-10-06 00:16:13,319 [INFO] ConfigFileManager:1590 - The Die is : DIE411
+2025-10-06 00:16:15,132 [INFO] ProjectBuilder:5191 - Time for Generating toolchain IDE Files: 1861mS.
+2025-10-06 00:16:15,136 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.
+2025-10-06 00:16:15,139 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 1mS.

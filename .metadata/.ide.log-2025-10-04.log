@@ -1,0 +1,132 @@
+2025-10-05 00:00:20,109 [WARN] IP:2250 - lpm_enable not found: check if there is a RefParameter without a condition.
+2025-10-05 00:00:20,157 [WARN] IP:2250 - lpm_enable not found: check if there is a RefParameter without a condition.
+2025-10-05 00:00:20,166 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 00:00:20,168 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 00:00:20,182 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 00:00:20,183 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 00:01:12,206 [INFO] WebApp:194 - Connection lost
+2025-10-05 00:01:13,109 [INFO] WebApp:191 - Connection restablished
+2025-10-05 00:04:56,335 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 00:04:56,349 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 00:05:01,657 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 00:05:01,670 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 00:06:24,090 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 00:06:24,096 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 00:11:31,151 [INFO] WebApp:194 - Connection lost
+2025-10-05 00:11:31,715 [INFO] WebApp:191 - Connection restablished
+2025-10-05 00:12:10,439 [INFO] WebApp:194 - Connection lost
+2025-10-05 00:12:10,899 [INFO] WebApp:191 - Connection restablished
+2025-10-05 00:12:18,749 [INFO] WebApp:194 - Connection lost
+2025-10-05 00:12:19,025 [INFO] WebApp:191 - Connection restablished
+2025-10-05 00:24:34,400 [INFO] WebApp:194 - Connection lost
+2025-10-05 00:24:35,168 [INFO] WebApp:191 - Connection restablished
+2025-10-05 00:25:36,951 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:36,968 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:40,985 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:41,000 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:41,907 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:41,914 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:42,917 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:42,930 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:47,370 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:47,375 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:48,017 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:48,019 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:48,734 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:48,736 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:49,300 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:49,303 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:50,389 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:50,391 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:51,296 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:51,298 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:52,014 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:52,016 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:52,800 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:52,802 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:53,680 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:53,682 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:54,225 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:54,228 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:55,003 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:55,006 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:56,004 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 00:25:56,014 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 00:26:09,442 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,534x306,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-05 00:26:42,237 [INFO] Gpio:277 - dependency for GPIO [ETH, RCC, SYS, USART3, USB_OTG_FS]
+2025-10-05 01:07:57,086 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:07:57,103 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:08:00,150 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:08:00,162 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:08:00,836 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:08:00,840 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:08:02,040 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:08:02,044 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:08:02,754 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:08:02,767 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:08:03,486 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:08:03,489 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:08:08,640 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:08:08,644 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:08:09,830 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:08:09,833 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:08:11,285 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:08:11,288 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:07,731 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:07,739 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:09,497 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:09,499 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:14,834 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:14,842 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:22,971 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:22,974 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:31,004 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:31,015 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:34,612 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:34,615 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:40,922 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:40,925 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:46,433 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:46,437 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:48,208 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:48,210 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:50,977 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:50,979 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:52,923 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:52,925 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:54,693 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:54,695 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:59,489 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:09:59,491 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:10:02,741 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:10:02,742 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:10:03,159 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:10:03,161 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:10:05,189 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:10:05,191 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:10:06,539 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:10:06,540 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:10:09,641 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:10:09,643 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:10:12,173 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:10:12,175 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:10:28,602 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:10:28,604 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:10:34,402 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:10:34,404 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:12:20,320 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:12:20,331 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:12:25,308 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:12:25,310 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:12:27,095 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:12:27,098 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:12:45,951 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,489x310,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-05 01:20:21,896 [WARN] IP:2250 - lpm_enable not found: check if there is a RefParameter without a condition.
+2025-10-05 01:21:32,229 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:21:32,240 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:21:33,707 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:21:33,709 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:21:37,989 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:21:37,991 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2025-10-05 01:21:41,755 [WARN] IP:2250 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2025-10-05 01:21:41,757 [WARN] IP:2250 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;httpd/Middlewares/Third_Party/LwIP/src/apps/httpd/fsdata.c&apos; to &apos;fsdata_custom.c&apos;" description="Rename resource &apos;fsdata.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Middlewares/Third_Party/LwIP/src/apps/httpd/fsdata.c" name="fsdata_custom.c" stamp="1759863512281" updateReferences="true"/>
+</session>
